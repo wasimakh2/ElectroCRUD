@@ -123,7 +123,7 @@
     "get-port": "^5.0.0",
     "jquery": "^3.4.1",
     "knex": "^0.20.3",
-    "monaco-editor": "^0.18.1",
+    "monaco-editor": "^0.21.2",
     "mysql": "^2.18.1",
     "ng-bootstrap-form-validation": "^5.0.0",
     "ng-dynamic-breadcrumb": "^2.0.2",
