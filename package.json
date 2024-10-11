@@ -91,7 +91,7 @@
     "@angular/cli": "8.3.20",
     "@angular/common": "8.2.14",
     "@angular/compiler": "8.2.14",
-    "@angular/compiler-cli": "8.2.14",
+    "@angular/compiler-cli": "18.2.8",
     "@angular/core": "8.2.14",
     "@angular/forms": "^8.0.0",
     "@angular/language-service": "8.2.14",
